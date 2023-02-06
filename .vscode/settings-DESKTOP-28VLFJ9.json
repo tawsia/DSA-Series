@@ -1,0 +1,22 @@
+{"makefile.configurations" : [
+
+    {
+
+        "name": "MyConfiguration",
+
+        "problemMatchers": [
+
+            "$gcc"
+
+        ],
+
+        "makeArgs": ["any", "other", "args", "you", "want"]
+
+    },
+
+],
+"files.associations": {
+    "iostream": "cpp"
+},
+"git.ignoreLimitWarning": true
+}
